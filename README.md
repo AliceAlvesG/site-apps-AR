@@ -11,7 +11,7 @@ Bem-vindo ao **Inovae**, um site criado para apresentar aplicações em **Realid
 
 Veja como funciona na prática:
 
-[[Assista ao vídeo: INOVAE | AUGMENTED REALITY STORE](https://youtu.be/hVrFQXp4JGk)]
+[Assista ao vídeo: INOVAE | AUGMENTED REALITY STORE](https://youtu.be/hVrFQXp4JGk)]
 
 ---
 
