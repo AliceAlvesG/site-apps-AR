@@ -3,7 +3,7 @@
 Bem-vindo ao **Inovae**, um site criado para apresentar aplicações em **Realidade Aumentada (RA)** desenvolvidas em Unity. A proposta é trazer experiências interativas e educativas de forma moderna e acessível.
 
 🚀 **Acesse agora:**  
-👉 [augmentedrealitystore.vercel.app](https://augmentedrealitystore.vercel.app/)
+👉 [augmented-reality-store.vercel.app](https://augmented-reality-store.vercel.app/)
 
 ---
 
@@ -11,7 +11,7 @@ Bem-vindo ao **Inovae**, um site criado para apresentar aplicações em **Realid
 
 Veja como funciona na prática:
 
-[[Assista ao vídeo]()]
+[[Assista ao vídeo: INOVAE | AUGMENTED REALITY STORE](https://youtu.be/hVrFQXp4JGk)]
 
 ---
 
