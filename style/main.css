@@ -501,6 +501,10 @@ body {
 }
 
 /* Apps Section */
+        .cyber {
+            background: linear-gradient(45deg, #3F51B5, #673AB7);
+        }
+        
         .apps-section {
             background: rgba(255,255,255,0.1);
             backdrop-filter: blur(10px);

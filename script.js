@@ -56,7 +56,14 @@ setInterval(createParticle, 2000);
         // Download functions
         function downloadAPK(appName) {
             // Aqui você pode implementar a lógica real de download
-            alert(`Iniciando download do ${appName === 'peripheral-hunt' ? 'Peripheral Hunt' : 'HardAR'}...`);
+            const name = typeof appName === 'string' ? appName.toLowerCase() : '';
+            let appLabel = '';
+            if (name === 'peripheral-hunt') appLabel = 'Peripheral Hunt';
+            else if (name === 'hardar') appLabel = 'HardAR';
+            else if (name === 'falhazero' || name.includes('falha')) appLabel = 'Falha Zero';
+            else appLabel = appName; // fallback: mostra o valor recebido
+
+            alert(`Iniciando download do ${appLabel}...`);
             // Exemplo: window.location.href = 'path/to/your/apk/file.apk';
         }
 
